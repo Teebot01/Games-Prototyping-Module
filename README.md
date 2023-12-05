@@ -1,6 +1,7 @@
 # Top-down-Shooter-game
 
 -Some files can randomly appear in the project files that were previously deleted. If unsure about which file is meant to be there. Please check the game objects in the hierarchy to see if the assets or scripts are also in there (These files may also be in the assets section of this repository).
+
 Randomly appearing scripts and files include:
 - EnemyBehaviour.cs
 - EnemyBullet.cs
