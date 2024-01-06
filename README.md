@@ -14,3 +14,5 @@ Randomly appearing scripts and files include:
 -Unfortunately, in the c# scripts, I have not highlighted in italics the names of the scripts that I have borrowed from tutorial videos as is mentioned in the Computer Programs template for Harvard Referencing. As I could not find an option for italics in the text editor.
 
 -If on startup you have an error that is due to a script. You will need to delete that script in the project console ONLY IF it is not a component for any game objects in the project.
+
+-Using editor version 2022.3.10f1
